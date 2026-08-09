@@ -1,5 +1,10 @@
 [
   {
+    "name": "Panther",
+    "price": "200",
+    "cost": 0
+  },
+  {
     "sku": "10269",
     "name": "3cc Syringe",
     "cost": 0,
