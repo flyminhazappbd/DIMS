@@ -746,11 +746,9 @@
     "stock": 0
   },
   {
-    "sku": "10094",
     "name": "Diclofenac TR Albion",
-    "cost": 47,
-    "price": "55.00",
-    "stock": 0
+    "price": "55",
+    "cost": 47
   },
   {
     "sku": "10325",
