@@ -2054,11 +2054,9 @@
     "stock": 0
   },
   {
-    "sku": "10113",
     "name": "Riboflavin Bristol",
-    "cost": 70,
     "price": "75.00",
-    "stock": 0
+    "cost": 68
   },
   {
     "sku": "10230",
