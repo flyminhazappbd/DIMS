@@ -1675,11 +1675,9 @@
     "stock": 0
   },
   {
-    "sku": "10107",
     "name": "My Sangel 20",
-    "cost": 120,
     "price": "125.00",
-    "stock": 0
+    "cost": 123
   },
   {
     "sku": "10323",
