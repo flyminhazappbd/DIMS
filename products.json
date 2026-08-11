@@ -373,11 +373,9 @@
     "stock": 0
   },
   {
-    "sku": "10005",
     "name": "Bilastin 20 AL",
-    "cost": 152,
     "price": "160.00",
-    "stock": 0
+    "cost": 150
   },
   {
     "sku": "10131",
