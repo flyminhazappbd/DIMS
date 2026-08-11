@@ -863,11 +863,9 @@
     "stock": 0
   },
   {
-    "sku": "10087",
     "name": "Esomegole 20 Medimet",
-    "cost": 110,
-    "price": "125.00",
-    "stock": 0
+    "price": "110",
+    "cost": 105
   },
   {
     "sku": "10134",
