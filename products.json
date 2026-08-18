@@ -132,11 +132,9 @@
     "stock": 0
   },
   {
-    "sku": "10104",
-    "name": "Acnil",
-    "cost": 120,
+    "name": "Achnil",
     "price": "125.00",
-    "stock": 0
+    "cost": 120
   },
   {
     "sku": "10021",
