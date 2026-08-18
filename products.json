@@ -1746,11 +1746,9 @@
     "cost": 183
   },
   {
-    "sku": "10173",
     "name": "Napro 500 Zenith",
-    "cost": 185,
-    "price": "190.00",
-    "stock": 0
+    "price": "200",
+    "cost": 190
   },
   {
     "sku": "10097",
