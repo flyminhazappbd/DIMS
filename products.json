@@ -2570,11 +2570,9 @@
     "stock": 0
   },
   {
-    "sku": "10345",
     "name": "Zencal D",
-    "cost": 0,
     "price": "95.00",
-    "stock": 0
+    "cost": 90
   },
   {
     "sku": "10056",
