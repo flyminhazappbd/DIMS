@@ -1,5 +1,10 @@
 [
   {
+    "name": "Clinisol",
+    "price": "300",
+    "cost": 0
+  },
+  {
     "name": "Soft Lady Check",
     "price": "130",
     "cost": 120
