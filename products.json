@@ -727,11 +727,9 @@
     "cost": 78
   },
   {
-    "sku": "10045",
     "name": "Damacin",
-    "cost": 170,
     "price": "175.00",
-    "stock": 0
+    "cost": 167
   },
   {
     "sku": "10159",
