@@ -1,5 +1,10 @@
 [
   {
+    "name": "Face Mask",
+    "price": "130",
+    "cost": 0
+  },
+  {
     "name": "Power 30",
     "price": "200",
     "cost": 0
