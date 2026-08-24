@@ -1,5 +1,10 @@
 [
   {
+    "name": "Calcin Pot",
+    "price": "65",
+    "cost": 60
+  },
+  {
     "name": "Extra Vit",
     "price": "70",
     "cost": 0
