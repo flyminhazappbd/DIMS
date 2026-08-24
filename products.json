@@ -1,5 +1,10 @@
 [
   {
+    "name": "Power 30",
+    "price": "200",
+    "cost": 0
+  },
+  {
     "name": "EuroCal Dx ( 325 - 330 )",
     "price": "330",
     "cost": 0
