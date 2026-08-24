@@ -1,5 +1,10 @@
 [
   {
+    "name": "Extra Vit",
+    "price": "70",
+    "cost": 0
+  },
+  {
     "name": "A To Z Gold Pharmik",
     "price": "60",
     "cost": 0
