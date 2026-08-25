@@ -1517,11 +1517,9 @@
     "stock": 0
   },
   {
-    "sku": "10276",
     "name": "Isabgul Plus ( 290 / 300 )",
-    "cost": 0,
-    "price": "variable",
-    "stock": 0
+    "price": "290",
+    "cost": 275
   },
   {
     "sku": "10283",
