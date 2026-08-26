@@ -1,5 +1,10 @@
 [
   {
+    "name": "Basak JBL",
+    "price": "25",
+    "cost": 20
+  },
+  {
     "name": "Itramax 100",
     "price": "165",
     "cost": 160
