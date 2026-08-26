@@ -2363,11 +2363,9 @@
     "stock": 0
   },
   {
-    "sku": "10080",
     "name": "Tolfenamic 200",
-    "cost": 112,
     "price": "120.00",
-    "stock": 0
+    "cost": 110
   },
   {
     "sku": "10241",
