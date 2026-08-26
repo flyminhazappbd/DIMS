@@ -551,11 +551,9 @@
     "cost": 94
   },
   {
-    "sku": "10026",
     "name": "Calcium C Plus",
-    "cost": 99,
-    "price": "105.00",
-    "stock": 0
+    "price": "100",
+    "cost": 99
   },
   {
     "sku": "10096",
