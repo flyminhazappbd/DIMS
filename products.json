@@ -1649,11 +1649,9 @@
     "stock": 0
   },
   {
-    "sku": "10163",
     "name": "Medikast 10",
-    "cost": 85,
     "price": "90.00",
-    "stock": 0
+    "cost": 82
   },
   {
     "sku": "10308",
