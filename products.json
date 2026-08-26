@@ -1634,11 +1634,9 @@
     "stock": 0
   },
   {
-    "sku": "10227",
     "name": "Medcal D",
-    "cost": 49,
     "price": "60.00",
-    "stock": 0
+    "cost": 46
   },
   {
     "name": "Medikast 10",
