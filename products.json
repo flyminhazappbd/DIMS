@@ -1313,11 +1313,9 @@
     "stock": 0
   },
   {
-    "sku": "10135",
     "name": "Gavifill Syrup Euro",
-    "cost": 120,
-    "price": "125.00",
-    "stock": 0
+    "price": "130",
+    "cost": 120
   },
   {
     "sku": "10268",
