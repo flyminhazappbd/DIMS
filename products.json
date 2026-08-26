@@ -546,11 +546,9 @@
     "stock": 0
   },
   {
-    "sku": "10025",
     "name": "Calcium C",
-    "cost": 94,
-    "price": "100.00",
-    "stock": 0
+    "price": "95",
+    "cost": 94
   },
   {
     "sku": "10026",
